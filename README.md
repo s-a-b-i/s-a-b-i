@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="" alt="Banner" width="100%">
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sohaib</h1>
 <h3 align="center">Turning Ideas into Reality with Code | MERN Stack Developer | Innovating for a Better Web</h3>
 
