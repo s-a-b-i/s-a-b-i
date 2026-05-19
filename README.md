@@ -1,94 +1,195 @@
-# Hi, I'm Sohaib
+<p align="center">
+  <img src="https://github.com/s-a-b-i/s-a-b-i/blob/main/banner.jpg" alt="Quizzera Banner" width="100%">
+</p>
 
-AI | ML | MERN Stack Developer | IAI Automation
+<h1 align="center">Hi 👋, I'm Sohaib</h1>
 
----
+<h3 align="center">Turning Ideas into Reality with Code | Full-Stack & AI Developer | Innovating for a Better Web</h3>
 
-## About Me
-
-- Currently working on: Quizzera
-- Learning: Next.js to enhance my full-stack development skills
-- Looking to collaborate on: Innovative MERN stack projects that push the boundaries of web development
-- Ask me about: Building dynamic web apps, optimizing user experiences, or anything related to MERN stack, Next.js, Python, and AI/ML
-- Email: 21ntucs1360@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s-a-b-i&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-b-i" />
+</p>
 
 ---
 
-## Connect With Me
+## 👨‍💻 About Me
 
-- [LinkedIn](https://linkedin.com/in/sohaib%20ahmad)
-- [Instagram](https://instagram.com/s_a_b_i76)
-- [Gmail](mailto:21ntucs1360@gmail.com)
+<p align="left">
+  
+- 🔭 **Currently working on:** Quizzera – An intelligent quiz platform with AI-powered features
+- 🤖 **Specializing in:** MERN Stack Development, AI/ML Integration, and Automation
+- 🌱 **Learning:** Next.js, Advanced Machine Learning, and AI Model Optimization
+- 👯 **Looking to collaborate on:** Full-stack projects, AI-driven applications, and intelligent automation solutions
+- 💬 **Ask me about:** Building scalable web apps, ML implementations, AI automation, or modern web development
+- 📫 **Email:** 21ntucs1360@gmail.com
+
+</p>
 
 ---
 
-## Tech Stack
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sohaib%20ahmad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/s_a_b_i76" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:21ntucs1360@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+</p>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
 
-### Python, AI & Machine Learning
+### Python & AI/ML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+</p>
 
-### AI Automation & Agentic Tools
+### AI Automation & Tools
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FF6600?style=for-the-badge&logo=uipath&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-5A5A5A?style=for-the-badge&logo=ai&logoColor=white)
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/L/langchain-logo-02FCE1BBC5-seeklogo.com.png" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.crewai.com/favicon.ico" alt="crewai" width="40" height="40"/>
+  </a>
+</p>
 
 ### Other Languages & Tools
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-b-i&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=s-a-b-i&show_icons=true&locale=en&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-a-b-i&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-a-b-i&show_icons=true&locale=en&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-a-b-i&theme=dark)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-b-i&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
+## 🎯 Featured Projects
 
-### If you like my work, consider giving a star
+<p align="left">
 
-</div>
+**Quizzera** - Intelligent Quiz Platform
+- Full-Stack MERN Architecture
+- AI-Powered Question Generation
+- Real-time Analytics & User Progress Tracking
+- Adaptive Learning Algorithm
+
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star! Your support means a lot.</h3>
+
+<p align="center">
+  <a href="https://github.com/s-a-b-i?tab=repositories">View My Repositories</a>
+</p>
