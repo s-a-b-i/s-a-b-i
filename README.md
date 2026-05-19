@@ -1,6 +1,6 @@
 # Hi, I'm Sohaib
 
-Turning Ideas into Reality with Code | MERN Stack Developer | Innovating for a Better Web
+AI | ML | MERN Stack Developer | IAI Automation
 
 ---
 
